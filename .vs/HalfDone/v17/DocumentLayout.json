@@ -1,22 +1,43 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\qwet676\\Desktop\\HalfDone\\",
+  "WorkspaceRootPath": "D:\\portfolio\\HalfDone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|C:\\Users\\qwet676\\Desktop\\HalfDone\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< Updated upstream
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|c:\\users\\qwet676\\desktop\\halfdone\\assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|c:\\users\\qwet676\\desktop\\halfdone\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|C:\\Users\\qwet676\\Desktop\\HalfDone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\portfolio\\HalfDone\\Assets\\Scripts\\Effects\\FadeEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Effects\\FadeEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\timercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +47,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+<<<<<<< Updated upstream
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoadSceneManager.cs",
-              "DocumentMoniker": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadSceneManager.cs",
-              "ToolTip": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LoadSceneManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "FadeEffect.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Effects\\FadeEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\FadeEffect.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Effects\\FadeEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\FadeEffect.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T09:26:43.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T03:29:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadSceneManager.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadSceneManager.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadSceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:03:19.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Board.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvykAAAAgAAAA",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimerController.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\TimerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimerController.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\TimerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimerController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:52:24.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadSceneManager.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadSceneManager.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadSceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:26:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAABIwB8AAAAKAAAA",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T06:05:09.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+<<<<<<< Updated upstream
+              "DocumentIndex": 1,
+=======
+              "DocumentIndex": 4,
               "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\Board.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
-              "ToolTip": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\Board.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Board.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,16 +141,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\Card.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Card.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
-              "ToolTip": "C:\\Users\\qwet676\\Desktop\\HalfDone\\Assets\\Scripts\\Card.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Card.cs",
               "RelativeToolTip": "Assets\\Scripts\\Card.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAUwEsAAAAFAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwDUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T08:03:05.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T08:03:05.01Z"
             }
           ]
         }
