@@ -29,6 +29,8 @@ public class GameManager : MonoBehaviour
     void Update()
     {
         //시간이 0이 되면 실패 표시
+        //endTxt.SetActive(true);
+        //Time.timeScale = 30.0f;
     }
 
     public void Matched()

@@ -37,6 +37,7 @@ public class Card : MonoBehaviour
         anim.SetBool("isOpen", true);
         front.SetActive(true);
         back.SetActive(false);
+        anim.SetBool("isOpen_1", true);
 
         if (GameManager.instance.firstCard == null)
         {
@@ -67,9 +68,10 @@ public class Card : MonoBehaviour
     //카드 닫기 함수
     void CloseCardInvoke()
     {
-        anim.SetBool("isOpen", false);
+        anim.SetBool("isOpen_1", false);
         front.SetActive(false);
         back.SetActive(true);
+        anim.SetBool("isOpen", false);
         backImage.color = new Color(backImage.color.r - 0.1f, backImage.color.g - 0.1f, backImage.color.b - 0.1f);
     }
 }
